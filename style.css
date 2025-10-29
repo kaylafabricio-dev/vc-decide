@@ -7,7 +7,7 @@
 }
 
 body{
-background-color: rgba(253, 216, 167, 0.767);
+background-color: rgba(167, 250, 253, 0.767);
 display: flex;
 align-items: center;
 justify-content: center;
@@ -21,3 +21,26 @@ margin: 20px 0;
 text-align: center;
 max-width: 90;
 }
+
+button{
+    background-color: aquamarine;
+    font-size: 22px;
+    padding: 4px;
+    border-radius: 10px;
+    margin: 5px;
+    color: aqua;
+}
+
+button:hover{
+    background-color: antiquewhite;
+    box-shadow: none;
+    transition: 0,5s;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+
+}display:black
