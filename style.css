@@ -1,10 +1,4 @@
-:root{
-    /* css hex*/
- --azul:
- --rosa:
- --laranja:
- --verde
-}
+
 
 body{
 background-color: rgba(167, 250, 253, 0.767);
@@ -43,4 +37,5 @@ button:hover{
 
 .passo.ativo{
 
-}display:black
+display:block
+}
